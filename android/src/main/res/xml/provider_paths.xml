@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<paths>
-    <cache-path name="cache" path="share_whatsapp/" />
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-cache-path
+        name="share_whatsapp"
+        path="share_whatsapp/" />
 </paths>
